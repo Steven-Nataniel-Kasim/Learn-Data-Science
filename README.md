@@ -1,32 +1,32 @@
 # Learn Data Science
 
-Repository ini berisi hal-hal yang saya pelajari dari program **IBM Data Science**.
+This repository contains what I have learned from the **IBM Data Science** program.
 
-## Materi
+## Contents
 
-Saat ini repository berisi latihan notebook:
+Current notebook:
 
 - `notebooks/Revenue Data and Building a Dashboard.ipynb`
 
-Notebook tersebut membahas cara mengambil, membersihkan, dan memvisualisasikan data saham serta revenue perusahaan. Latihan ini menggunakan contoh Tesla dan GameStop untuk mempraktikkan:
+This notebook focuses on extracting, cleaning, and visualizing stock and revenue data. It uses Tesla and GameStop as examples to practice:
 
-- pengambilan data saham dengan `yfinance`;
-- web scraping data revenue menggunakan `pandas` dan `BeautifulSoup`;
-- pembersihan data sebelum analisis;
-- pembuatan grafik untuk membandingkan harga saham dan revenue;
-- dasar-dasar membangun dashboard sederhana dari data bisnis.
+- extracting stock data with `yfinance`;
+- scraping revenue data with `pandas` and `BeautifulSoup`;
+- cleaning data before analysis;
+- creating graphs to compare stock prices and company revenue;
+- understanding the basics of building a simple business data dashboard.
 
-## Tujuan Pembelajaran
+## Learning Goals
 
-Repository ini dibuat sebagai catatan belajar pribadi untuk memahami alur kerja data science, mulai dari pengumpulan data, eksplorasi, visualisasi, sampai penyajian insight dalam bentuk grafik atau dashboard.
+This repository serves as my personal learning record for understanding the data science workflow, from data collection and exploration to visualization and presenting insights through charts or dashboards.
 
-## Cara Membuka Notebook
+## How to Open the Notebook
 
-1. Clone repository ini.
-2. Buka file notebook menggunakan Jupyter Notebook, JupyterLab, VS Code, atau Google Colab.
-3. Jalankan cell dari atas ke bawah.
+1. Clone this repository.
+2. Open the notebook using Jupyter Notebook, JupyterLab, VS Code, or Google Colab.
+3. Run the cells from top to bottom.
 
-Dependensi utama yang digunakan:
+Main dependencies:
 
 ```text
 pandas
@@ -35,6 +35,6 @@ beautifulsoup4
 plotly
 ```
 
-## Catatan
+## Note
 
-Materi dalam repository ini adalah bagian dari proses belajar saya dari IBM Data Science dan akan diperbarui jika ada latihan atau proyek baru.
+The materials in this repository are part of my learning journey from IBM Data Science and may be updated as I complete more exercises or projects.
